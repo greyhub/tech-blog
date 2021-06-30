@@ -1,5 +1,9 @@
 # Machine Learning
 
+# Language
+- Vietnamese
+- English
+
 # Content
 1. [Học máy là gì ?](1.what.md)
 1. [Xây dựng mô hình]()
