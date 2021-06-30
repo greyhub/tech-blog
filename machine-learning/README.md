@@ -1,7 +1,7 @@
 # Machine Learning
 
 # Content
-1. What
+1. [What](1.what.md)
 1. How
 1. Why
 
