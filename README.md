@@ -1,4 +1,7 @@
 # Tech Blog
+
+> @Author: [Grey](https://greyhub.github.io/)
+
 Write sth 'bout tech.
 
 # Content
