@@ -1,7 +1,5 @@
 # Học máy
 
-> Tài liệu được dịch từ [Machine Learning 101](https://leetcode.com/explore/learn/card/machine-learning-101/)
-
 Tài liệu giới thiệu một số khái niệm cơ bản trong lĩnh vực học máy, cung cấp những hiểu biết về:
 - Các vấn đề học máy khác nhau
 - Mô hình học máy là gì ?
@@ -16,3 +14,6 @@ Tài liệu giới thiệu một số khái niệm cơ bản trong lĩnh vực h
 # Ngôn ngữ
 - Tiếng Việt
 - Tiếng Anh
+
+# Tham khảo
+[Machine Learning 101](https://leetcode.com/explore/learn/card/machine-learning-101/)
